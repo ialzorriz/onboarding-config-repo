@@ -9,10 +9,6 @@ security:
     - /v2/**
     - /health
     - /metrics
-  oauth2:
-    resource:
-      jwt:
-        keyValue: "AmPkxJZf=YH%uVprWueg23s^&4w5r_5H5_$RCznr"
 
 # Removing security for the health and metrics monitor console
 management:
