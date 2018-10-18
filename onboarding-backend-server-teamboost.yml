@@ -1,6 +1,6 @@
 security:
   ignored:
-    - /products
+    - /products/*
     - /swagger-ui.html
     - /webjars/**
     - /swagger-resources/**
