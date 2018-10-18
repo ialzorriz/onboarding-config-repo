@@ -15,6 +15,9 @@ onboarding:
   client:
       user: "onboarding"
       password: "mxTSms6aeQptCzCJ"
+  admin:
+      user: "onboarding_admin"
+      password: "nyTSms6aeQptCzDK"
 
 jwt:
   singning:
